@@ -28,7 +28,6 @@ Before running this project, ensure you have the following installed:
 1. Clone the repository to your local machine:
    ```bash
    git clone https://github.com/kushalpatel0265/English-to-Handwritten-Generator.git
-   cd handwritten-text-generation
 
 ## Usage
 1. To use this program, run the following command in the terminal:
