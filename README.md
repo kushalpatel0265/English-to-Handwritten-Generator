@@ -1,6 +1,6 @@
 # HandwrittenTextFromInput
 
-## Project Overview
+## Introduction
 HandwrittenTextFromInput is a Python-based tool that transforms typed English text into images that simulate handwritten script. This project utilizes a dataset from Kaggle, which includes images of handwritten characters and digits. By mapping the ASCII values of input characters to specific images in the dataset, the tool assembles these images to create a seamless handwritten representation of the input text.
 
 ## Features
