@@ -38,10 +38,8 @@ Before running this project, ensure you have the following installed:
 2. Enter the text when prompted, and the program will generate an image file with the handwritten representation of the input text.
 ### Example
     Input:
-    ```bash
     Enter a string: Hello
     Output:
-    ```bash
     An image file Random.png will be generated in the project directory, showing "Hello World" in handwritten format.
 
 ## Contributing
