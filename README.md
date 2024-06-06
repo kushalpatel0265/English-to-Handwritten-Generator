@@ -16,7 +16,7 @@ HandwrittenTextFromInput is a Python-based tool that transforms typed English te
 ## Getting Started
 Follow these instructions to set up and run DataQueryAI on your local machine.
 
-### Prerequisites
+## Prerequisites
 Before running this project, ensure you have the following installed:
 - Python 3.x
 - Pandas
@@ -41,6 +41,7 @@ Before running this project, ensure you have the following installed:
     ```bash
     Enter a string: Hello
     Output:
+    ```bash
     An image file Random.png will be generated in the project directory, showing "Hello World" in handwritten format.
 
 ## Contributing
