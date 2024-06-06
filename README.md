@@ -24,13 +24,13 @@ Before running this project, ensure you have the following installed:
 - NumPy
 - Matplotlib
 
-### Installation
+## Installation
 1. Clone the repository to your local machine:
    ```bash
    git clone https://github.com/yourusername/handwritten-text-generation.git
    cd handwritten-text-generation
 
-### Usage
+## Usage
 1. To use this program, run the following command in the terminal:
    ```bash
    python handwritten_generator.py
@@ -47,4 +47,8 @@ Before running this project, ensure you have the following installed:
 Contributions to this project are welcome! Please fork the repository and submit a pull request with your features or corrections.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/kushalpatel0265/English-to-Handwritten-Generator/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the `LICENSE` file for details.
+
+## Contact
+Kushal Patel - kushalpatel0265@gmail.com
+Project Link: https://github.com/kushalpatel0265/English-to-Handwritten-Generator
