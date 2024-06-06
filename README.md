@@ -50,4 +50,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 
 ## Contact
 - Gmail: kushalpatel0265@gmail.com
-- Project Link: https://github.com/kushalpatel0265/Database-Talk
+- Project Link: https://github.com/kushalpatel0265/English-to-Handwritten-Generator
