@@ -26,3 +26,22 @@ Clone the repository to your local machine:
 ```bash
 git clone https://github.com/yourusername/handwritten-text-generation.git
 cd handwritten-text-generation
+
+## Usage
+To use this program, run the following command in the terminal:
+```bash
+python handwritten_generator.py
+
+Enter the text when prompted, and the program will generate an image file with the handwritten representation of the input text.
+## Example
+Input:
+```bash
+Enter a string: Hello
+Output:
+An image file Random.png will be generated in the project directory, showing "Hello World" in handwritten format.
+
+## Contributing
+Contributions to this project are welcome! Please fork the repository and submit a pull request with your features or corrections.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/kushalpatel0265/English-to-Handwritten-Generator/blob/main/LICENSE) file for details.
