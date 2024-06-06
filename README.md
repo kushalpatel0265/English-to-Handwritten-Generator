@@ -14,7 +14,7 @@ HandwrittenTextFromInput is a Python-based tool that transforms typed English te
 - **User Interface Design:** Enhances interfaces by adding a personal touch with handwritten aesthetics, potentially improving user engagement.
 
 ## Getting Started
-Follow these instructions to set up and run DataQueryAI on your local machine.
+Follow these instructions to set up and run English-to-Handwritten-Generator on your local machine.
 
 ## Prerequisites
 Before running this project, ensure you have the following installed:
