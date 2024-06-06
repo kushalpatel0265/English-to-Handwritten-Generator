@@ -27,7 +27,7 @@ Before running this project, ensure you have the following installed:
 ## Installation
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/handwritten-text-generation.git
+   git clone https://github.com/kushalpatel0265/English-to-Handwritten-Generator.git
    cd handwritten-text-generation
 
 ## Usage
